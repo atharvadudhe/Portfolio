@@ -1,0 +1,97 @@
+{
+  "about": {
+    "name": "Atharva Dudhe",
+    "title": "Full Stack Developer",
+    "description": "Aspiring full-stack developer with hands-on experience in MERN projects. Passionate about building user-friendly applications, solving complex problems, and continuously learning to bring impactful ideas to life through code.",
+    "email": "atharvadudhe125@gmail.com",
+    "location": "MIT ADT, Pune, India"
+  },
+  "skills": {
+  "Languages & Frameworks": ["C++", "Java", "Python", "JavaScript", "React.js", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS", "Node.js", "Express.js"],
+  "Databases & Backend": ["MongoDB", "MySQL", "RESTful APIs", "JWT Authentication"],
+  "Tools & Platforms": ["Git", "GitHub", "Postman", "Docker", "Render", "Vercel", "Netlify", "Figma", "Windows", "Linux", "macOS"]
+},
+  "achievements": [
+  {
+    "title": "Top 10 Finalist - SIH 2025",
+    "description": "Developed an AI-Based Traffic Management System reducing congestion by 30–35% while solving 12 key objectives.",
+    "year": "2025"
+  },
+  {
+    "title": "Top 50 - Kalvium x Promptrepo Hackathon",
+    "description": "Built NeoFinance, an AI finance assistant that improved tracking by ~40% and reduced manual effort by ~60%.",
+    "year": "2025"
+  },
+  {
+    "title": "Top 100 - SIH 2024",
+    "description": "Created a Smart Plant Watering System using IoT sensors, saving 35–40% water and improving hydration by 25%.",
+    "year": "2024"
+  },
+  {
+    "title": "Open Source Contributor - GirlScript Summer of Code",
+    "description": "Selected contributor for enhancing open-source projects during GSSoC 2025.",
+    "year": "2025"
+  },
+  {
+    "title": "Design Patent Holder",
+    "description": "Granted a patent for a Semi-Automated Bio-Processing System improving lab efficiency.",
+    "year": "2024"
+  },
+  {
+    "title": "Technical Head - CRiEYA Research & Innovation Center",
+    "description": "Led technical initiatives, projects, and mentored peers in innovation-driven activities.",
+    "year": "2025"
+  },
+  {
+    "title": "Website Team Member - Cloud Computing Club",
+    "description": "Maintained and developed the official club website as part of the technical team.",
+    "year": "2025"
+  }
+],
+  "projects": [
+    {
+      "name": "XPlayVerse",
+      "description": "A MERN stack gaming platform showcasing trending games. Users can create, view, and delete posts, update profiles, and chat in real-time. JWT-based authentication ensures secure access.",
+      "link": "https://github.com/kalviumcommunity/S73_Atharva_Capstone_XPlayVerse",
+      "demo": "https://xplayverse.netlify.app/"
+    },
+    {
+      "name": "ContactBook",
+      "description": "A MERN stack Contact Management app with a minimalist UI, allowing users to add, update, view, and delete contacts. Fully Dockerized for easy deployment.",
+      "link": "https://github.com/atharvadudhe/contactBook",
+      "demo": "contactbook-1-wz5x.onrender.com"
+    },
+    {
+      "name": "Document Analyzer Api",
+      "description": "A FastAPI service that extracts text from PDF, HTML, Markdown, and TXT files, providing automated summaries, named entities, and keywords. Easy-to-use endpoints for file upload and text analysis.",
+      "link": "https://github.com/atharvadudhe/document-analyzer-api",
+      "demo": ""
+    },
+    {
+      "name": "NoteNest",
+      "description": "A MERN stack personal note-taking app allowing users to securely sign up, log in, and manage their notes. Features include creating, updating, deleting notes, and a user profile section, with JWT-based authentication for secure access.",
+      "link": "https://github.com/atharv1205/Personal_Notes_Manager",
+      "demo": ""
+    },
+    {
+      "name": "Employee Management System",
+      "description": "A Java Spring Boot Employee Management System with REST APIs for creating and retrieving employee records. Demonstrates CRUD operations, entity mapping with Spring Data JPA, and uses H2 in-memory database for quick testing and demos.",
+      "link": "https://github.com/atharvadudhe/Employee-Management-System",
+      "demo": ""
+    },
+    {
+      "name": "SIH — InterCollege Team Finder",
+      "description": "A MERN stack platform that helps students form inclusive inter-college teams for hackathons and projects. Features secure JWT authentication, team constraints like size limit and gender diversity, and a clean UI for managing teams and profiles.",
+      "link": "https://github.com/atharvadudhe/SIH_TEAM_MANAGEMENT",
+      "demo": "https://sih-mit.netlify.app/"
+    }
+  ],
+  "contact": {
+    "email": "atharvadudhe125@gmail.com",
+    "phone": "+91 9156169181",
+    "socials": {
+      "github": "https://github.com/atharvadudhe",
+      "linkedin": "https://www.linkedin.com/in/atharva-dudhe/"
+    }
+  }
+}
