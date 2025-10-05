@@ -2,14 +2,14 @@
   "about": {
     "name": "Atharva Dudhe",
     "title": "Full Stack Developer",
-    "description": "Aspiring full-stack developer with hands-on experience in MERN projects. Passionate about building user-friendly applications, solving complex problems, and continuously learning to bring impactful ideas to life through code.",
+    "description": "Aspiring Full-Stack Developer with hands-on experience in MERN stack projects. Passionate about building user-friendly applications, solving complex problems, and continuously learning to bring impactful ideas to life through code. Currently expanding my expertise in AI/ML technologies and workflow automation using n8n to integrate intelligent and efficient solutions into modern web applications.",
     "email": "atharvadudhe125@gmail.com",
     "location": "MIT ADT, Pune, India"
   },
   "skills": {
   "Languages & Frameworks": ["C++", "Java", "Python", "JavaScript", "React.js", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS", "Node.js", "Express.js"],
   "Databases & Backend": ["MongoDB", "MySQL", "RESTful APIs", "JWT Authentication"],
-  "Tools & Platforms": ["Git", "GitHub", "Postman", "Docker", "Render", "Vercel", "Netlify", "Figma", "Windows", "Linux", "macOS"]
+  "Tools, Technologies & Platforms": ["AI/ML", "n8n","Git", "GitHub", "Postman", "Docker", "Render", "Vercel", "Netlify", "Figma", "Windows", "Linux", "macOS"]
 },
   "achievements": [
   {
@@ -57,6 +57,12 @@
       "demo": "contactbook-1-wz5x.onrender.com"
     },
     {
+      "name": "SIH — InterCollege Team Finder",
+      "description": "A MERN stack platform that helps students form inclusive inter-college teams for hackathons and projects. Features secure JWT authentication, team constraints like size limit and gender diversity, and a clean UI for managing teams and profiles.",
+      "link": "https://github.com/atharvadudhe/SIH_TEAM_MANAGEMENT",
+      "demo": "https://sih-mit.netlify.app/"
+    },
+    {
       "name": "Document Analyzer Api",
       "description": "A FastAPI service that extracts text from PDF, HTML, Markdown, and TXT files, providing automated summaries, named entities, and keywords. Easy-to-use endpoints for file upload and text analysis.",
       "link": "https://github.com/atharvadudhe/document-analyzer-api",
@@ -73,12 +79,6 @@
       "description": "A Java Spring Boot Employee Management System with REST APIs for creating and retrieving employee records. Demonstrates CRUD operations, entity mapping with Spring Data JPA, and uses H2 in-memory database for quick testing and demos.",
       "link": "https://github.com/atharvadudhe/Employee-Management-System",
       "demo": ""
-    },
-    {
-      "name": "SIH — InterCollege Team Finder",
-      "description": "A MERN stack platform that helps students form inclusive inter-college teams for hackathons and projects. Features secure JWT authentication, team constraints like size limit and gender diversity, and a clean UI for managing teams and profiles.",
-      "link": "https://github.com/atharvadudhe/SIH_TEAM_MANAGEMENT",
-      "demo": "https://sih-mit.netlify.app/"
     }
   ],
   "contact": {
