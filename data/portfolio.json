@@ -51,16 +51,16 @@
       "demo": "https://xplayverse.netlify.app/"
     },
     {
-      "name": "ContactBook",
-      "description": "A MERN stack Contact Management app with a minimalist UI, allowing users to add, update, view, and delete contacts. Fully Dockerized for easy deployment.",
-      "link": "https://github.com/atharvadudhe/contactBook",
-      "demo": "contactbook-1-wz5x.onrender.com"
-    },
-    {
       "name": "SIH — InterCollege Team Finder",
       "description": "A MERN stack platform that helps students form inclusive inter-college teams for hackathons and projects. Features secure JWT authentication, team constraints like size limit and gender diversity, and a clean UI for managing teams and profiles.",
       "link": "https://github.com/atharvadudhe/SIH_TEAM_MANAGEMENT",
       "demo": "https://sih-mit.netlify.app/"
+    },
+    {
+      "name": "ContactBook",
+      "description": "A MERN stack Contact Management app with a minimalist UI, allowing users to add, update, view, and delete contacts. Fully Dockerized for easy deployment.",
+      "link": "https://github.com/atharvadudhe/contactBook",
+      "demo": "https://contactbook-1-wz5x.onrender.com"
     },
     {
       "name": "Document Analyzer Api",
